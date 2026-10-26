@@ -1,0 +1,20 @@
+[
+  {
+    "id": "launch-announcement",
+    "title": "Launch announcement (many issues)",
+    "channel": "web",
+    "text": "Introducing LumoraSync 4, the revolutionary, game-changing way to sync files! We're the fastest cloud storage on the market with 100% uptime guaranteed. Plans start at just $8 per user per month. Over 8,000 teams trust us, and we're gonna keep it that way. Unlike Dropbox, Lumora Sync is FedRAMP certified. Click here to start your free trial!!"
+  },
+  {
+    "id": "subtle-claims",
+    "title": "Product page (subtle claims)",
+    "channel": "web",
+    "text": "LumoraSync is now 3x faster and trusted by more than 15,000 customers. Our Business plan costs $24 per user per month, backed by a 99.9% uptime SLA. Every plan includes SOC 2 Type II certification."
+  },
+  {
+    "id": "clean-social",
+    "title": "Social post (should pass)",
+    "channel": "social",
+    "text": "LumoraSync Business plan: 5 TB of storage per user, a 99.9% uptime SLA per calendar month, and 24/7 chat support. Prices exclude applicable taxes. Start a 14-day free trial. \u2601\ufe0f"
+  }
+]

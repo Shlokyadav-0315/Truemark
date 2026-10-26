@@ -1,0 +1,11 @@
+# Lower bounds only: I could not install or version-check these in the offline build sandbox.
+# After your first successful local run, run `pip freeze > requirements.lock` and pin from that.
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+python-multipart>=0.0.9
+chromadb>=0.5
+google-genai>=1.0
+httpx>=0.27
+pypdf>=4.0
+reportlab>=4.0
