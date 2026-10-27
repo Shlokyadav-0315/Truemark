@@ -1,6 +1,6 @@
-<div align="center">
+   <p align="center"><img src="assets/logo.svg" width="220" alt="TrueMark logo"></p>
 
-# ✅ TrueMark
+#  TrueMark
 
 ### Fact-grounded brand governance, before you hit publish.
 
