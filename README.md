@@ -1,4 +1,5 @@
-   <p align="center"><img src="assets/logo.svg" width="220" alt="TrueMark logo"></p>
+   <img width="1200" height="1074" alt="logo" src="https://github.com/user-attachments/assets/ea7f9e24-9574-48e0-8307-f6c327d3a0cc" />
+
 
 #  TrueMark
 
